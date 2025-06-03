@@ -1,0 +1,1 @@
+We are hiring an intern with skills in Python, Machine Learning, Natural Language Processing, and data analysis. Experience with scikit-learn and NLTK is a plus.
